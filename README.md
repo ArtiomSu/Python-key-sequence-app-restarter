@@ -4,6 +4,8 @@ This script was designed originally to auto restart discord by typing out a key 
 # setup
 1. git clone this repo
 2. create a shortcut to main.py so that you can pin it to the start menu
+3. Install python 3
+4. install pynput module by opening cmd and type `pip install pynput`
 3. in main.py edit the config
 
 # config
